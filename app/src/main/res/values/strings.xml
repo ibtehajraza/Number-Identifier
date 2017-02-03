@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Number Identifier</string>
+    <string name="heading_text">ENTER NUMBER FOR IDENTIFICATION</string>
+    <string name="enter_number">Enter Number</string>
+    <string name="check_number">CHECK</string>
+    <string name="Disclaimer">Disclaimer: It only works for the number which starts with 0\n and it will not work with converted numbers</string>
+</resources>
